@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: lightblue;
+
+}
+.wraper{
+    width: 500px;
+    margin: 0px auto;
+    padding: 50px 0;
+}
+.wraper h2{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.wraper h4{
+    margin: 8px 0 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.wraper p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+.content-box{
+    background-color: aliceblue;
+    padding: 30px;
+}
+.img-box img{
+    width: 500px;
+}
